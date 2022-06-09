@@ -1,0 +1,86 @@
+Resumão de Lógica de Programação:
+
+A lógica de programação vem para ajudar a solucionar algum problema de forma mais organizada e planejada.
+Podendo ser utilizada no cotidiano também, alem de em soluções programacionais.
+
+Técnicas de Lógica de Programação:
+
+*Técnica Linear
+Modelo tradicional, sem vínculo, estrutura hierarquica. Utilizada muito na Matemática.
+Ordena os elementos por uma única propriedade, com execução sequenciada, recursos limitados, uma única dimensão.
+
+*Técnica Estruturada
+Orgnização, disposição e ordem dos elementos essenciais que compõem um corpo (concreto ou abstrato).
+
+*Técnica Modular 
+Possui partes independentes. Controlada por um conjunto de regras. Simplifica, decompõe o problema, verificação do módulo.
+dados de entrada --> processo de transformação --> dados de saída
+[----------------------------------------------------------------]
+            modelo padrão
+
+
+Fundamentos de Algoritmos
+
+*Variável 
+Uma estrutua mutável, com variação, incerto, instável, inconstante. Mas que recebe um tipo de dado. Eu sei que tipo 
+é mas não sei o valor que receberá.
+REGRAS:
+Atribuição de um ou mais caracteres;
+Primeira letra, não número;
+Sem espaços em branco;
+Sem utilizar palavras reservadas;
+Caracteres e números.
+
+*Constante
+Tudo aquilo que é fixo ou estável.
+
+
+							Estrutura Condicional 
+|-------------------------------------------------------------| |----------------------------------------|
+Simples						Composta 					Encadeada
+Condição				Condição --> Exceção			Condição --> Condição --> Exceção
+   |					    |					    |		|
+Operação				Operação				Operação      Operação
+
+
+
+Estrutura de Repetição
+Existe uma condição de parada, número de repetições pré-fixada e uma condição a ser satisfeita.
+	
+
+
+Vetor:
+Sequência de tipos de dados, uma variável.
+
+
+Matriz:
+Uma tabela organizada em linhas e colunas no formato m(linhas nº) x n(colunas nº).
+Coleção de variáveis, contiguas em memórias, índices.
+
+
+Funções:
+São blocos de instruções(códigos), identificados por nomes e parametros(assinatura da função), que realizam tarefas específicas. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
